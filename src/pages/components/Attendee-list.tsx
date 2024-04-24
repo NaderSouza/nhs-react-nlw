@@ -1,3 +1,3 @@
 export function AttendeeList() {
-  return <div>f</div>;
+  return <div>Participantes</div>;
 }
