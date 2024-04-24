@@ -16,7 +16,7 @@ export default function MyApp() {
       <MyButton text="Clique aqui" />
       <MyButton text="Clique 2" />
       <MyButton text="Clique 3" />
-      <MyButton text="oi" />
+      <MyButton text="oi2" />
 
       <img />
       <input />
